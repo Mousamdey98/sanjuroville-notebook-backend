@@ -1,0 +1,7 @@
+
+settings.py
+paste/
+
+*.log
+*.pot
+*.pyc
